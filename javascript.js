@@ -143,7 +143,7 @@
 
   // ];
   const myQuestions = [
-    { question:"",answers:{a:"The woman and the man have plans to eat out together.",b:"The woman would prefer to stay home this evening.",c:"The man has changed his mind about the new restaurant.",d:"The man is sorry he cannot join the woman for dinner.",},correctAnswer:"c"},
+    { question:"",answers:{a:"The woman and the man have plans to eat out together.",b:"The woman would prefer to stay home this evening.",c:"The man has changed his mind about the new restaurant.",d:"The man is sorry he cannot join the woman for dinner.",},correctAnswer:"a"},
 
 { question:"",answers:{a:"A plane trip. ",b:"A rental car.",c:"A hotel room. ",d:"Concert tickets.",},correctAnswer:"a"},
 
